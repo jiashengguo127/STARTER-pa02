@@ -1,4 +1,4 @@
 #ifndef UTILITIES_H
 #define UTILITIES_H
-// Add any utility functions here
+// Add utility functions here if needed
 #endif

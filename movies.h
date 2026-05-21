@@ -1,4 +1,4 @@
 #ifndef MOVIES_H
 #define MOVIES_H
-// Add any movie-related abstractions here
+// Add movie-related abstractions here if needed
 #endif
